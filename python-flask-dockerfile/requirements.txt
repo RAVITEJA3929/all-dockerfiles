@@ -1,0 +1,6 @@
+flask
+streamlit
+pandas
+plotly
+# plus any other libs your app uses
+
